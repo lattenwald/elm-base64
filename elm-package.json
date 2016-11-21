@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "summary": "Base64 encoding and decoding, cloned from truqu/elm-base64.git",
+    "version": "1.0.2",
+    "summary": "do not use it",
     "repository": "https://github.com/lattenwald/elm-base64.git",
     "license": "MIT",
     "source-directories": [
@@ -12,5 +12,5 @@
     "dependencies": {
         "elm-lang/core": "5.0.0 <= v < 6.0.0"
     },
-    "elm-version": "0.18.0 <= v < 0.19.0"
+    "elm-version": "0.17.0 <= v < 0.18.0"
 }
